@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
+    "dotenv": "^16.4.5",
     "firebase": "^10.3.1",
+    "meta": "^2.2.25",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
